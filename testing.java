@@ -48,3 +48,6 @@ public class anotherclass {
   int b = 3;
 }
 */
+
+// public class decleration doesn't work. needs a seperate .java file.
+
