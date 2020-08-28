@@ -7,4 +7,4 @@ Will try organize. Some are just lose .java files worked on in the Repl.it onlin
 
 (25/08/2020) So a .java file at a time is coming but I want to do more complete project files so they can be downloaded to run in Eclipse. I just don't fancy the bulky IDE when I can use a web browser.
 
-(28/08/2020) Haven't been on repl.it in a few days (I've been busy) but I'm going to try and upload some java.math stuff today, I only have maybe an hour to do so but it should be up today. 
+(28/08/2020) Haven't been on repl.it in a few days (I've been busy) but I'm going to try and upload some java.math stuff today, I only have maybe an hour to do so but it should be up today. UPDATE: Math has been uploaded in part 4.
