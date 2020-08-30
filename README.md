@@ -9,4 +9,4 @@ Will try organize. Some are just lose .java files worked on in the Repl.it onlin
 
 (28/08/2020) Haven't been on repl.it in a few days (I've been busy) but I'm going to try and upload some java.math stuff today, I only have maybe an hour to do so but it should be up today. UPDATE: Math has been uploaded in part 4.
 
-(30/08/2020) Have been busy, will upload java code today. May not be a lot though. 
+(30/08/2020) Have been busy, will upload java code today. May not be a lot though. Added boolean stuff will see if I've got time to get into selection and if statements, if else included.
