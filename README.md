@@ -14,3 +14,5 @@ Will try organize. Some are just lose .java files worked on in the Repl.it onlin
 (31/08/2020) Adding If statements today. Selection I think is the next logical move in writing more advanced Java. Thinking about also moving into more advanced Java in an IDE so I can actually produce projects. Won't start my first proper Java project until I feel completly comfortable working in it.
 
 UPDATE: After the upload of part 6, where my selection was not working. I am moving to eclipse IDE because Repl.it does allow for the same functionality. I need to work with seperate .java files for some selection logic, this cannot be achieved in repl.it effectively from my experience. 
+
+(06/09/2020) It has been almost a week since I uploadeded any Java. I have been busy in my personal life and trying to manage my application for my current year of study in university. I will be moving back to rep.it for the time being as no selection logic (if statements, else statements, switch) have not been working in my current IDE so more code to come.
