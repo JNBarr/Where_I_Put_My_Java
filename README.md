@@ -18,3 +18,5 @@ UPDATE: After the upload of part 6, where my selection was not working. I am mov
 (06/09/2020) It has been almost a week since I uploaded any Java. I have been busy in my personal life and trying to manage my application for my current year of study in university. I will be moving back to rep.it for the time being as no selection logic (if statements, else statements, switch) have not been working in my current IDE so more code to come.
 
 (13/09/2020) Have uploaded switch statements.
+
+(08/03/2021) Damn its been a while since I looked at this repo. Commiting changes to say that I might revist this. I can't even remember what tutorial I was following, if I find it, which I probably can, I'll try and add more. 
