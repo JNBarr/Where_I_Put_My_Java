@@ -20,3 +20,4 @@ UPDATE: After the upload of part 6, where my selection was not working. I am mov
 (13/09/2020) Have uploaded switch statements.
 
 (08/03/2021) Damn its been a while since I looked at this repo. Commiting changes to say that I might revist this. I can't even remember what tutorial I was following, if I find it, which I probably can, I'll try and add more. 
+- Have added updated switch statements in part 9 at 10:11am 08/03/2021.
