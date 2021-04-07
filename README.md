@@ -24,3 +24,5 @@ UPDATE: After the upload of part 6, where my selection was not working. I am mov
 
 (15/03/2021) Have found my Java tutorial book so I can get on with my tutorials. I was at switch statements (did these on tutorialspoint) so I will move to the next part soon.
 
+(07/04/2021) Have done some Java based excerises from the Sams book. Have been uploaded under a different naming convention, I should probably organise these files better so they are structured in some sort of logical way.
+
